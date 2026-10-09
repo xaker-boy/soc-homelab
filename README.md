@@ -1,5 +1,3 @@
-# soc-homelab
-Open-source mini SOC lab: Wazuh SIEM, MITRE ATT&amp;CK detection rules, and automated incident response
 # SOC Home Lab — Wazuh SIEM + MITRE ATT&CK Detection
 
 Open-source mini Security Operations Center built on Oracle Cloud, featuring
